@@ -1,1 +1,1 @@
-# cup-website
+# Cup-website
